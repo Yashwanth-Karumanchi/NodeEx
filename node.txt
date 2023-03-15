@@ -1,0 +1,101 @@
+v0.2.0
+This is a rewrite of the dispatch command-line tool for sending parameterized emails, now written in Rust. The older Python version is still available tagged as v0.1.0. This version (v0.2.0) includ… Read more
+1 person reacted with eyes
+@brianyu28 brianyu28 made 1 repository public · 3 weeks ago
+brianyu28/jeopardy51
+Jeopardy for CS51 exam review sessions
+
+ JavaScript 2 Updated Feb 19
+
+@brianyu28 brianyu28 released v0.3.3 of brianyu28/streamline · last month
+@brianyu28
+brianyu28 / streamline
+v0.3.3
+Changelog
+
+Enhancement: Add dark mode support
+Full Changelog: v0.3.2...v0.3.3
+1 person reacted with hooray
+@brianyu28 brianyu28 released v0.3.2 of brianyu28/streamline · last month
+@brianyu28
+brianyu28 / streamline
+v0.3.2
+Changelog
+
+Fix: Bug that prevented detection of right Shift key
+Full Changelog: v0.3.1...v0.3.2
+2 people reacted with thumbs up
+3 people reacted with heart
+@brianyu28 brianyu28 released v0.3.1 of brianyu28/streamline · last month
+@brianyu28
+brianyu28 / streamline
+v0.3.1
+Changelog
+
+Feature: Introduced debug mode for troubleshooting
+Full Changelog: v0.3.0...v0.3.1
+@brianyu28 brianyu28 created a repository brianyu28/streamline-homepage · last month
+@brianyu28
+brianyu28/streamline-homepage
+The homepage for the Streamline text automation app
+
+Updated Feb 5
+
+@brianyu28 brianyu28 released v0.3.0 of brianyu28/streamline · last month
+@brianyu28
+brianyu28 / streamline
+v0.3.0
+Changelog
+Feature: Added a quick entry panel. From any application, use a global hotkey to trigger a quick entry panel that allows choosing a Streamline workflow.
+Feature: Customize global hotkey …
+Read more
+@brianyu28 brianyu28 released v0.2.1 of brianyu28/streamline · last month
+@brianyu28
+brianyu28 / streamline
+v0.2.1
+Changelog
+
+Fixed bug with key code handling for backspace key
+Full Changelog: v0.2.0...v0.2.1
+2 people reacted with hooray
+@brianyu28 brianyu28 released v0.2.0 of brianyu28/streamline · 2 months ago
+@brianyu28
+brianyu28 / streamline
+v0.2.0
+Changelog
+Feature: Workflow groups and the workflows within them are automatically saved to disk and loaded from disk when the application starts.
+Feature: Workflow groups can be exported and impo…
+Read more
+@brianyu28 brianyu28 released v0.1.0 of brianyu28/streamline · 2 months ago
+@brianyu28
+brianyu28 / streamline
+v0.1.0
+An initial proof-of-concept release for Streamline.
+Feature: Create "Workflow Groups", collections of automations.
+Feature: Create "Workflow" automations. Currently, each workflow has a trigger an…
+Read more
+4 people reacted with thumbs up
+3 people reacted with rocket
+1 person reacted with eyes
+@brianyu28 brianyu28 created a repository brianyu28/streamline · 2 months ago
+@brianyu28
+brianyu28/streamline
+A text-expanding automation app for macOS
+
+Updated Feb 17
+
+ ProTip! The feed shows you events from people you follow and repositories you watch or star.
+Subscribe to your news feed
+© 2023 GitHub, Inc.
+Blog
+About
+Shop
+Contact GitHub
+Pricing
+API
+Training
+Status
+Security
+Terms
+Privacy
+Docs
